@@ -7,6 +7,7 @@
      ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
      ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=JavaScript)
      ![Mysql](https://img.shields.io/badge/-Mysql-181717?style=flat-square&logo=Mysql)  
+     ![Node.js](https://img.shields.io/badge/-Node.js-181717?style=flat-square&logo=Node.js)  
 * 💬  联系方式:yzb12040015@163.com  
 * ⭐️  [查看个人简历](https://gudanya123.github.io/myResume/)
 
