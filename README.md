@@ -4,7 +4,7 @@
 * 🌱  技术是一种有交流才有进步的东西,一起交流吧~  
 *  ⚡ ![Vue](https://img.shields.io/badge/-Vue-41b883?style=flat-square&logo=Vue)
      ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-     ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
+     ![React](https://img.shields.io/badge/-React-49a4bd?style=flat-square&logo=React&logoColor=white)
      ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=JavaScript)
      ![Node.js](https://img.shields.io/badge/-Node.js-27894d?style=flat-square&logo=Node.js&logoColor=white)  
 * 💬  联系方式:yzb12040015@163.com  
